@@ -1,5 +1,5 @@
 
-# 100-Days-Of-ML-Code
+# 30-Days-Of-ML
 #### By SAJEETH
 
 
